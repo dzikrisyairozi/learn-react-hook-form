@@ -10,7 +10,7 @@ type FormValues = {
     age: number,
 }
 
-export default function GetStarted() {
+export default function Register() {
     const {register, handleSubmit, formState: { errors } } = useForm<FormValues>({
         defaultValues: {
             firstName: '',
