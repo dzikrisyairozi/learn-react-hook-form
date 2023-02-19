@@ -17,6 +17,7 @@ const Hero = () => {
         <ButtonLink link='register' title='Register'/>
         <ButtonLink link='watch' title='Watch'/>
         <ButtonLink link='form-state' title='Form State'/>
+        <ButtonLink link='set-value' title='Set Value'/>
         <ButtonLink link='plain-form' title='Plain Form'/>
         {/* <Counter/> */}
       </div>
