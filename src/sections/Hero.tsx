@@ -20,6 +20,7 @@ const Hero = () => {
         <ButtonLink link='set-value' title='Set Value'/>
         <ButtonLink link='reset' title='Reset'/>
         <ButtonLink link='trigger' title='Trigger'/>
+        <ButtonLink link='set-error' title='Set Error'/>
         <ButtonLink link='plain-form' title='Plain Form'/>
         {/* <Counter/> */}
       </div>
