@@ -14,6 +14,7 @@ const Hero = () => {
       </p>
       <div className='flex justify-center gap-3'>
         <ButtonLink link='get-started' title='Get Started'/>
+        <ButtonLink link='register' title='Register'/>
         <ButtonLink  title='Learn More'/>
         {/* <Counter/> */}
       </div>
