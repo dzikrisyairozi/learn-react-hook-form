@@ -26,6 +26,7 @@ const Hero = () => {
         <ButtonLink link='set-error' title='Set Error'/>
         <ButtonLink link='handle-submit' title='Handle Submit'/>
         <ButtonLink link='reset-field' title='Reset Field'/>
+        <ButtonLink link='unregister' title='unregister'/>
         </div>
         <ButtonLink link='plain-form' title='Plain Form'/>
         {/* <Counter/> */}
